@@ -1,1 +1,7 @@
 # Birds of a Feather Flock Together Online: Social Media Associations by User Base
+
+Social media are widely used among users with diverse backgrounds. Despite their considerable popularity, research has found that people do not select into their uses randomly, which has implications for both whose voices are represented on them and where messaging can reach diverse people. While prior work has considered self-selection into one social network site (SNS), in this paper we ask: how are different SNSs linked by user base? Using national survey data about 1,512 U.S. adults’ social media uses, we build networks between SNSs that connect SNS pairs by user base. We examine patterns by subgroups of users along the lines of age, gender, education, and Internet skills finding considerable variation in SNS associations by these variables. This has implications for big data analyses that depend on data from particular social media platforms. It also offers helpful lessons for how to reach different population segments when trying to communicate to diverse audiences.
+
+*Keywords: platform associations, social media adoption, social network sites, survey, messaging campaigns*
+
+**Citation*:* Horvát, E-Á. and Hargittai, E. 2021. Birds of a Feather Flock Together Online: Social Media Associations by User Base. Social Media + Society.
